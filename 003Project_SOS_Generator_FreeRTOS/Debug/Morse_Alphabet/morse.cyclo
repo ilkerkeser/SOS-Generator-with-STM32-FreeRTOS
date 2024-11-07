@@ -1,0 +1,4 @@
+morse.c:48:6:char_to_morse	4
+morse.c:61:6:string_to_morse	3
+morse.c:80:6:morse_to_char	3
+morse.c:89:6:morse_to_string	2

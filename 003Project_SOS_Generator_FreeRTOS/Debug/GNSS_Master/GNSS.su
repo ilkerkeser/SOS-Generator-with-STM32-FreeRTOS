@@ -1,0 +1,13 @@
+../GNSS_Master/GNSS.c:43:6:GNSS_Init	16	static
+../GNSS_Master/GNSS.c:66:6:GNSS_ParseBuffer	24	static
+../GNSS_Master/GNSS.c:92:6:GNSS_GetUniqID	16	static
+../GNSS_Master/GNSS.c:102:6:GNSS_GetNavigatorData	16	static
+../GNSS_Master/GNSS.c:112:6:GNSS_GetPOSLLHData	16	static
+../GNSS_Master/GNSS.c:122:6:GNSS_GetPVTData	16	static
+../GNSS_Master/GNSS.c:133:6:GNSS_ParseUniqID	24	static
+../GNSS_Master/GNSS.c:143:6:GNSS_SetMode	16	static
+../GNSS_Master/GNSS.c:171:6:GNSS_ParsePVTData	48	static
+../GNSS_Master/GNSS.c:234:6:GNSS_ParseNavigatorData	16	static
+../GNSS_Master/GNSS.c:250:6:GNSS_ParsePOSLLHData	40	static
+../GNSS_Master/GNSS.c:288:6:GNSS_LoadConfig	16	static
+../GNSS_Master/GNSS.c:310:9:GNSS_Checksum	16	static

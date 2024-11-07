@@ -1,0 +1,4 @@
+../Morse_Alphabet/morse.c:48:6:char_to_morse	24	static
+../Morse_Alphabet/morse.c:61:6:string_to_morse	48	static
+../Morse_Alphabet/morse.c:80:6:morse_to_char	24	static
+../Morse_Alphabet/morse.c:89:6:morse_to_string	32	static
